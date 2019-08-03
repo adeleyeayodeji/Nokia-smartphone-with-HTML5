@@ -1,0 +1,144 @@
+body{
+	background:white;
+}
+td:hover{
+	cursor: pointer;
+	color: yellow;
+}
+.aaa:hover{
+	cursor: pointer;
+	color: yellow;
+}
+.aaa{
+	padding: 0px;
+	margin: 0px;
+}
+.header{
+	text-align: center;
+	background:lightgrey;
+	padding: 10px;
+	font-family: calibri;
+}
+.file{
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 5px;
+	height:420px;
+	width: 85%;
+	padding: 20px;
+}
+.credit{
+	text-align: center;
+	font-weight: bold;
+	text-shadow: 5px 5px 5px grey;
+}
+
+.name{
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	letter-spacing: 5px;
+	color: white;
+	font-family: arial;
+	font-weight: bold;
+	text-align: center;
+}
+.phone{
+	box-shadow:10px 10px 5px 5px grey;
+	border: 7px solid black;
+	height: 390px;
+	background-color: black;
+	border-radius: 5%;
+	width: 240px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 5px;
+}
+.screen{
+	border: 3px solid white;
+	height: 140px;
+	background:url(ice_2018-10-14-14-07-41-043.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: white;
+	text-align: center;
+	font-family: calibri;
+}
+table{
+	width: 100%;
+	text-align: center;
+
+}
+td{
+	    background: black;
+    color: white;
+    width: 40px;
+    font-family: calibri;
+}
+.mic{
+	border: 3px solid white;
+	height: 5px;
+	margin-right: auto;
+	width: 30px;
+	margin-bottom: 5px;
+	margin-left:auto;
+	border-radius: 10px;
+}
+.button{
+	border:1px solid white;
+	clear: both;
+}
+.footer{
+	background: black;
+	color: white;
+	font-family: calibri;
+	text-align: center;
+	border-radius: 10px;
+	margin-top: -5px;
+	padding: 0px;
+	clear: both;
+}
+
+.imglo{
+  height: 100px;
+}
+.logo1{
+  background: #c6292d;
+  padding: 10px;
+  width: 100%;
+  text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    font-family: calibri;
+    color: white;
+    display: none;
+    transition: 0.3s;
+}
+.logo2{
+  background: #c6292d;
+  padding: 10px;
+  width: 100%;
+  text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    color: white;
+    padding: 5px;
+    display: none;
+    font-family: calibri;
+    transition: 0.3s;
+}
+
+.logo2 p {
+  margin: 0px;
+  padding: 0px;
+}
+
+.logo1 p {
+  margin: 0px;
+  padding: 0px;
+}
